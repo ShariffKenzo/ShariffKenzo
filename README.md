@@ -1,5 +1,5 @@
 - 👋 Hi there, I am Shariff Kenzo
-- 👀 I am a Year 2 Computer Science student studying in Nanyang Technological University. I love to build beautiful android applications.
+- 👀 I am a Year 2 Computer Science student studying in Nanyang Technological University. I love to build beautiful android applications and websites.
 
 - 📫 Contact me : SHARIFF001@e.ntu.edu.sg
 
