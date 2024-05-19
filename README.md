@@ -1,5 +1,5 @@
 - 👋 Hi there, I am Shariff Kenzo
-- 👀 I am a Year 3 Computer Science student studying in Nanyang Technological University. I love learning new things and embarking on new projects.
+- 👀 I am a Computer Science graduate from Nanyang Technological University. I love learning new things and embarking on new projects.
 
 - 📫 Contact me : SHARIFF001@e.ntu.edu.sg
 
